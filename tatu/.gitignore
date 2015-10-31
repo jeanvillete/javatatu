@@ -1,0 +1,7 @@
+*.*~
+.classpath
+.project
+.tomcatplugin
+.settings/
+src/WebContent/WEB-INF/classes/
+*.swp
